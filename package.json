@@ -1,0 +1,17 @@
+{
+  "name": "freeos",
+  "version": "1.0.0",
+  "description": "Post a warning to the user if they run your software on a non free and open source operating system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Linux",
+    "BSD",
+    "Windows",
+    "Free"
+  ],
+  "author": "mz",
+  "license": "ISC"
+}
