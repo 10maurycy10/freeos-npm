@@ -13,5 +13,13 @@
     "Free"
   ],
   "author": "mz",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10maurycy10/freeos-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/10maurycy10/freeos-npm/issues"
+  },
+  "homepage": "https://github.com/10maurycy10/freeos-npm#readme"
 }
