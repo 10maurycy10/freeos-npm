@@ -1,12 +1,12 @@
 # freeos-npm
 
-A npm package to print a message to people using non free and open source operating systems
+A npm package to print a message to people using non free and open source operating systems.
 
 ## features
 
-- Message customized depending on wether the user is on MacOS or Windows
+- Message customized depending on whether the user is on MacOS or Windows.
 
-- Message will olny be printed one, so you dont have to worry about spamming the console
+- Message will only be printed one, so you dont have to worry about spamming the users console.
 
 ## usage
 
@@ -18,7 +18,7 @@ freeos()
 ## results
 
 ```
-> npm start
+C:\Users\MZ\testprog > npm start
 This program runs optimally on a free and open source operating system, such as GNU/Linux.
 
 Consider switching for better performance, privacy, and security
