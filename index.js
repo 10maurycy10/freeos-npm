@@ -2,7 +2,7 @@
 var message_printed = false;
 var platform = process.platform;
 
-modules.exports = () => {
+module.exports = () => {
 	if (platform == "win32" || platform == "darwin" && !message_printed) {
 		console.warn("This program runs optimally on a free and open source operating system, such as GNU/Linux.");
 		console.warn("");
